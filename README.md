@@ -28,9 +28,9 @@ https://shields.io/
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-   ![Python](http://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&&color=7D8084)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&)
-   ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
+   ![Python](http://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=7D8084)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&color=7D8084)
+   ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&color=7D8084)
 
 - Machine Learning / Deep Learning frameworks : <br />
     ![TensorFlow](http://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow&color=7D8084)
