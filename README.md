@@ -63,7 +63,7 @@ Technologies I've been learning and using so far :
    ![Heroku](https://img.shields.io/badge/-Heroku-000?style=plastic&logo=heroku&logoColor=430098)
    
 - OS & IDE & Tools : <br />
-    ![VS Code](http://img.shields.io/badge/-VS%20Code-000?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+   ![VS Code](http://img.shields.io/badge/-VS%20Code-000?style=plastic&logo=visual-studio-code&logoColor=007ACC)
    ![Linux](http://img.shields.io/badge/-Linux-000?style=plastic&logo=linux&logoColor=D67A10)
    ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000?style=plastic&logo=gnu-bash&logoColor=663399)
    ![Git](http://img.shields.io/badge/-Git-000?style=plastic&logo=git&logoColor=F05032)
@@ -75,8 +75,4 @@ Technologies I've been learning and using so far :
 	![vmWare](https://img.shields.io/badge/-VMWare-000?&logo=VMWare)
 
 ### Certifications & Badges:
-![Cisco DevNet](https://img.shields.io/badge/-Cisco-000?style=plastic&logo=appveyor&logo=Cisco) 
-
-
-<br />
-<br />
+![Cisco DevNet](https://img.shields.io/badge/-Cisco-000?style=plastic&logo=Cisco) 
