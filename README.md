@@ -18,7 +18,7 @@ https://simpleicons.org/
 https://shields.io/
 -->
 
-## Heyyo, I'm (https://img.shields.io/static/v1?label=LinkedIn&message=RosanaSoriano&color=000?link=http://linkedin.com/rosanasoriano?style=plastic&logo=linkedin) </a>!
+![## Heyyo, I'm ](https://img.shields.io/static/v1?label=LinkedIn&message=RosanaSoriano&color=000?link=http://linkedin.com/rosanasoriano?style=plastic&logo=linkedin) </a>!
 
 <br />
 <br />
