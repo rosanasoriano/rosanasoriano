@@ -44,7 +44,7 @@ Technologies I've been learning and using so far :
    ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=7D8084cc)
    ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&color=7D8084)
    ![Gatsby](https://img.shields.io/badge/-Gabtsy-000?style=for-the-badge&logo=Gatsby&color=7D8084)
-   ![Jekyll](http://img.shields.io/badge/-Jekyll-000?style=for-the-badge&logo=jekyll&logoColor=a83232)
+   ![Jekyll](http://img.shields.io/badge/-Jekyll-000?style=for-the-badge&logo=jekyll&color=7D8084)
    ![Bootstrap](http://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&color=7D8084)
    ![11ty](http://img.shields.io/badge/-11ty-000?style=for-the-badge&logo=eleventy&color=7D8084)
    ![Wordpress](http://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress&color=7D8084)
