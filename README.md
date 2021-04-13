@@ -81,7 +81,9 @@ Technologies I've been learning and using so far :
 ![Cisco](https://img.shields.io/badge/-Cisco-000?style=for-the-badge&logo=Cisco&color=0D0D0D) 
 <!-- ![DevNet](https://images.credly.com/size/340x340/images/86d57ae1-0e9c-4776-80cf-d922facef690/CiscoDevNet500.png) -->
 
+![Profile views counter](https://komarev.com/ghpvc/?username=rosanasoriano&&style=flat-square)  
+
+
 
 <br />
 <br />
-![Profile views counter](https://komarev.com/ghpvc/?username=rosanasoriano&&style=flat-square)  
