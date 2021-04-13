@@ -79,7 +79,7 @@ Technologies I've been learning and using so far :
 
 ### Certifications & Badges:
 ![Cisco](https://img.shields.io/badge/-Cisco-000?style=for-the-badge&logo=Cisco&color=0D0D0D) 
-![DevNet](https://images.credly.com/size/340x340/images/86d57ae1-0e9c-4776-80cf-d922facef690/CiscoDevNet500.png)
+<--![DevNet](https://images.credly.com/size/340x340/images/86d57ae1-0e9c-4776-80cf-d922facef690/CiscoDevNet500.png)-->
 
 
 <br />
