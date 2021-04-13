@@ -84,3 +84,4 @@ Technologies I've been learning and using so far :
 
 <br />
 <br />
+![Profile views counter](https://komarev.com/ghpvc/?username=rosanasoriano&&style=flat-square)  
