@@ -67,11 +67,11 @@ Technologies I've been learning and using so far :
    ![Linux](http://img.shields.io/badge/-Linux-000?style=social&logo=linux&logoColor=D67A10)
    ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000?style=social&logo=gnu-bash&logoColor=663399)
    ![Git](http://img.shields.io/badge/-Git-000?style=social&logo=git&logoColor=F05032)
-    ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-	![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-	![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-	![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
-	![vmWare](https://img.shields.io/badge/-VMWare-000?&logo=VMWare)
+    ![AWS](https://img.shields.io/badge/-AWS-000?style=social&logo=Amazon-AWS&logoColor=F90)
+	![Docker](https://img.shields.io/badge/-Docker-000?style=social&logo=Docker)
+	![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=social&logo=Kubernetes)
+	![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?style=social&logo=Windows-Terminal&logoColor=999)
+	![vmWare](https://img.shields.io/badge/-VMWare-000?style=social&logo=VMWare)
 
 ### Certifications & Badges:
 ![Cisco DevNet](https://img.shields.io/badge/-Cisco-000?style=social&logo=Cisco) 
