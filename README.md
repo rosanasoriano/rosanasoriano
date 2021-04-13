@@ -78,7 +78,8 @@ Technologies I've been learning and using so far :
 	![Atom](https://img.shields.io/badge/-Atom-000?style=for-the-badge&logo=Atom&color=0D0D0D)
 
 ### Certifications & Badges:
-![Cisco DevNet](https://img.shields.io/badge/-Cisco-000?style=for-the-badge&logo=Cisco&color=0D0D0D) 
+![Cisco](https://img.shields.io/badge/-Cisco-000?style=for-the-badge&logo=Cisco&color=0D0D0D) 
+![DevNet](https://images.credly.com/size/340x340/images/86d57ae1-0e9c-4776-80cf-d922facef690/CiscoDevNet500.png)
 
 
 <br />
