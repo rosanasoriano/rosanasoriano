@@ -28,11 +28,11 @@ https://shields.io/
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#0A66C2)]
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
+    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=#0A66C2)]
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=#0A66C2)]
     <!-- [![R Lang](https://img.shields.io/badge/-R%20Lang-eee?style=flat-square&logo=r&logoColor=276dc3)]
     <!-- [![Ruby](http://img.shields.io/badge/-Ruby-eee?style=flat-square&logo=ruby&logoColor=CC342D)] -->
-    [![FreeFEM++](http://img.shields.io/badge/-FreeFEM++-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA81BMVEUAAP8AAAAAAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP/////77TmdAAAAT3RSTlMAAAUXGEvS1MgtguAdA6jAZ2il0LZqZGVVEsl9DRP+zyrk+r/ZuNjaikz27anGr/EQFgt21lrma2KjtwZ83+VhzZABsFheGlYrIlfHLBUCC7TStQAAAJ1JREFUeNolxwVihFAMRdE3LlDF3R3qRt29zf53MwTul+QA48mUm4wxGo2A2XzBLVcD19QniOC2tmlnd29fkhVV1XQYJlm2I5NLXR78IIziRKAgjeMsR1FWdXNwWBZHx9PpCU7pTByfuxeXVz66Wrq+wS3d3dMDRiM80hOeW3p5fXtnfmifsBuyADC5r4C+GR35rcyf314Dx5O//4EbrkgVZpD8mJYAAAAASUVORK5CYII=&logoColor=CC342D)]
+    [![FreeFEM++](http://img.shields.io/badge/-FreeFEM++-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA81BMVEUAAP8AAAAAAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP/////77TmdAAAAT3RSTlMAAAUXGEvS1MgtguAdA6jAZ2il0LZqZGVVEsl9DRP+zyrk+r/ZuNjaikz27anGr/EQFgt21lrma2KjtwZ83+VhzZABsFheGlYrIlfHLBUCC7TStQAAAJ1JREFUeNolxwVihFAMRdE3LlDF3R3qRt29zf53MwTul+QA48mUm4wxGo2A2XzBLVcD19QniOC2tmlnd29fkhVV1XQYJlm2I5NLXR78IIziRKAgjeMsR1FWdXNwWBZHx9PpCU7pTByfuxeXVz66Wrq+wS3d3dMDRiM80hOeW3p5fXtnfmifsBuyADC5r4C+GR35rcyf314Dx5O//4EbrkgVZpD8mJYAAAAASUVORK5CYII=&logoColor=#0A66C2)]
     ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
