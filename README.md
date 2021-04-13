@@ -56,7 +56,7 @@ Technologies I've been learning and using so far :
     ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase&style=for-the-badge&color=7D8084)
    ![MySQL](http://img.shields.io/badge/-MySQL-000?logo=mysql&style=for-the-badge&color=7D8084)
    ![gRPC](http://img.shields.io/badge/-gRPC-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&style=for-the-badge&color=7D8084)
-   ![NodeJS](http://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+   ![NodeJS](http://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=&color=7D8084)
    ![Flask](http://img.shields.io/badge/-Flask-000?logo=flask&style=for-the-badge&color=7D8084)
    ![GraphQL](https://img.shields.io/badge/-GraphQL-000?logo=graphql&style=for-the-badge&color=7D8084)
    ![Heroku](https://img.shields.io/badge/-Heroku-000?logo=heroku&style=for-the-badge&color=7D8084)
@@ -68,17 +68,17 @@ Technologies I've been learning and using so far :
    ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000?logo=gnu-bash&style=for-the-badge&color=7D8084)
    ![Git](http://img.shields.io/badge/-Git-000?logo=git&style=for-the-badge&color=7D8084)
     ![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS&style=for-the-badge&color=7D8084)
-	![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
-	![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
+	![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&color=7D8084)
+	![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes&color=7D8084)
 	![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?logo=Windows-Terminal&style=for-the-badge&color=7D8084)
-	![vmWare](https://img.shields.io/badge/-VMWare-000?style=for-the-badge&logo=VMWare)
-	![JSON](https://img.shields.io/badge/-JSON-000?style=for-the-badge&logo=JSON)
-	![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=Notion)
-	![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=PyCharm)
-	![Atom](https://img.shields.io/badge/-Atom-000?style=for-the-badge&logo=Atom)
+	![vmWare](https://img.shields.io/badge/-VMWare-000?style=for-the-badge&logo=VMWare&color=7D8084)
+	![JSON](https://img.shields.io/badge/-JSON-000?style=for-the-badge&logo=JSON&color=7D8084)
+	![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=Notion&color=7D8084)
+	![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=PyCharm&color=7D8084)
+	![Atom](https://img.shields.io/badge/-Atom-000?style=for-the-badge&logo=Atom&color=7D8084)
 
 ### Certifications & Badges:
-![Cisco DevNet](https://img.shields.io/badge/-Cisco-000?style=for-the-badge&logo=Cisco) 
+![Cisco DevNet](https://img.shields.io/badge/-Cisco-000?style=for-the-badge&logo=Cisco&color=7D8084) 
 
 
 <br />
