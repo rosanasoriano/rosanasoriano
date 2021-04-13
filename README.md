@@ -18,7 +18,7 @@ https://simpleicons.org/
 https://shields.io/
 -->
 
-![## Heyyo, I'm ](https://img.shields.io/static/v1?label=LinkedIn&message=RosanaSoriano&color=000?style=for-the-badge&logo=linkedin) </a>!
+![## Heyyo, I'm ](https://img.shields.io/static/v1?label=LinkedIn&message=RosanaSoriano&color=7D8084) </a>!
 
 <br />
 <br />
@@ -41,7 +41,7 @@ Technologies I've been learning and using so far :
 - Frontend : <br />
    ![HTML5](http://img.shields.io/badge/-HTML5-000?logo=html5&style=for-the-badge&color=7D8084)
    ![Sass](https://img.shields.io/badge/-SASS-000?logo=sass&style=for-the-badge&color=7D8084)
-   ![React](https://img.shields.io/badge/-React-000?logo=react&style=for-the-badge&color=7D8084cc)
+   ![React](https://img.shields.io/badge/-React-000?logo=react&style=for-the-badge&color=7D8084)
    ![Angular](https://img.shields.io/badge/-Angular-000?logo=angular&style=for-the-badge&color=7D8084)
    ![Gatsby](https://img.shields.io/badge/-Gabtsy-000?logo=Gatsby&style=for-the-badge&color=7D8084)
    ![Jekyll](http://img.shields.io/badge/-Jekyll-000?logo=jekyll&style=for-the-badge&color=7D8084)
@@ -51,9 +51,8 @@ Technologies I've been learning and using so far :
    
 - Backend : <br />
     ![Airflow](https://img.shields.io/badge/-Airflow-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAACAVBMVEXoPibmXEHuYkYAxtMAx9TwTTP/Sx3hOCCXjIDiOCHhNx8InPAAxv9hdaQGkuoEkPgCgvEBydYG0+AQyNQJzLEd8v8Mz9wAqkUAq0UCsIYArEUBeeoE5SUCvk4BeuoBeusCv08Cuk0AsEfgOCDjOSHjOSHjOSHiOSHhOCHfOCAAx9MAxdLfOCDjOSHkOSHjOSHjOyMAxtMAx9QAxtPeNyDjOSHkOSHnQin3aU0Ax9UAx9QAxtPiNBviOSHaPyv8bVDdgGcAx9QAx9QAxtMgqug7m8+/incIxNAAxdIKqPgKrf0Ax9QAxdEBfewCg/AAxtMAws4BeekBfO0CytcBxdIBe+sBfO4P3esO2eYBe+wBgOcDw3gN1MUP2dgBe+0BfO4Be+0EzWUD0FYBr0sArEUAp0IBfO0BfO4Be+0BdukDylQAskgArUYArEYAqUQBe+0Be+wBeOYArUYArUYArUYArUYArUYBeuoBeegAq0UArEUArEYArEYArEYArEYArEXkOSHlOSAAx9TkOCDoQimcY2vqRSz/cFEHtP8hquqxVlX2UDTjfmVOrq4Ax9UCg/ADhvECk/pJgK+ffnE4trkBfO4Be+4BlMcIrXoOw7AE1OMDzNkCy9gCnbgEz2QBvkkEunAP3N8Q4O8E1FUBtEkArEYGvn4AskgArUYArUX///+CCWXoAAAAgHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAInj2sKaWxYYiBOY+MM9EKDbDZP93UQOm9ALjfvfU5X+t1j09PyOS+T1UUPiuxIZyNg3XvnaPZz58fBLxPuFT9/6jQvb/osIRN39kw3ikAo8wPaYFH8QFFSRudHaf4Ujfm8AAACdSURBVAjXJcyxSgIBGADg/6uhQgjfIXDSwQgOqjNDAsFJRKLF0dWxN2qICBH06CQisMBAcInewqlZHW7+4HMG/EGFql7EK7+2NRzV6Owis65rvzlxTuvAHM1PJRLN7aEPV/Ht1KVG0f0vKaduwSZiRVdLFJp513cTx2Aq5+E6vrQxk2GQ/OCOnAlDjLvSiAUvRjzT5yJixaMnuC/yPQUrJDDTZ2+sAAAAAElFTkSuQmCC&style=for-the-badge&color=7D8084)
-   ![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&style=for-the-badge&color=7D8084ed)
+   ![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&style=for-the-badge&color=7D8084)
    ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb&style=for-the-badge&color=7D8084)
-   <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&style=for-the-badge&color=7D8084)] -->
     ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase&style=for-the-badge&color=7D8084)
    ![MySQL](http://img.shields.io/badge/-MySQL-000?logo=mysql&style=for-the-badge&color=7D8084)
    ![gRPC](http://img.shields.io/badge/-gRPC-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&style=for-the-badge&color=7D8084)
