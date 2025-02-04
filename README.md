@@ -1,13 +1,9 @@
 ### Hi there 👋
-
-![## Heyyo, I'm ](https://img.shields.io/static/v1?label=LinkedIn&message=RosanaSoriano&color=0D0D0D) </a>!
-
 <!--
 **rosanasoriano/rosanasoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 Welcome to my GitHub profile! I'm Rosana Soriano, a seasoned professional with over a decade of experience in the ICT industry, specializing in network automation and agile project management. Here, you'll find projects that reflect my passion for technology and innovation.
-
 <!--
 **rosanasoriano/rosanasoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +21,6 @@ Here are some ideas to get you started:
 https://simpleicons.org/
 https://shields.io/
 -->
-
 
 ![## Heyyo, I'm ](https://img.shields.io/static/v1?label=LinkedIn&message=RosanaSoriano&color=0D0D0D) </a>!
 
